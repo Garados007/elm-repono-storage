@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "Garados007/repono-storage",
+    "name": "Garados007/elm-repono-storage",
     "summary": "A library that enables access to a ReponoStorage server.",
     "license": "GPL-3.0",
     "version": "1.0.0",
